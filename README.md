@@ -1,9 +1,9 @@
 # Welcome to SARA project
 #### Search and Rescue application
 
-## Docker compose repo: [💿 Docker](https://github.com/macko99/sara-docker)
+## Docker compose repo: [💿 Docker](https://github.com/macko99/sara-docker-public)
 
-## backend (server + database) repo: [💾 backend](https://github.com/macko99/sara-server)
+## backend (server + database) repo: [💾 backend](https://github.com/macko99/sara-server-public)
 
 ## What's SARA?
 
