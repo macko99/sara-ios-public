@@ -1,0 +1,10 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "S&R";
+/* Bundle name */
+"CFBundleName" = "lifeSavingApp";
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Potrzbujemy twojej lokalizacji do prawidłowego wspierania akcji poszukiwawczych.";
+/* Privacy - Location Always Usage Description */
+"NSLocationAlwaysUsageDescription" = "Potrzbujemy twojej lokalizacji do prawidłowego wspierania akcji poszukiwawczych.";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Potrzbujemy twojej lokalizacji do prawidłowego wspierania akcji poszukiwawczych.";

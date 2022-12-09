@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TwilioConversationsClient",
+        "repositoryURL": "https://github.com/twilio/conversations-ios",
+        "state": {
+          "branch": null,
+          "revision": "d713475070bc830460eb7fd6ec9da264d662c195",
+          "version": "2.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

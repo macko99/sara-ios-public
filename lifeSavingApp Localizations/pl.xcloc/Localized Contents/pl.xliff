@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="lifeSavingApp/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>S&amp;R</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>lifeSavingApp</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysAndWhenInUseUsageDescription" xml:space="preserve">
+        <source>Potrzbujemy twojej lokalizacji do prawidłowego wspierania akcji poszukiwawczych.</source>
+        <note>Privacy - Location Always and When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysUsageDescription" xml:space="preserve">
+        <source>Potrzbujemy twojej lokalizacji do prawidłowego wspierania akcji poszukiwawczych.</source>
+        <note>Privacy - Location Always Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>Potrzbujemy twojej lokalizacji do prawidłowego wspierania akcji poszukiwawczych.</source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lifeSavingApp/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.1" build-num="13A1030d"/>
+    </header>
+    <body>
+      <trans-unit id="&#10;" xml:space="preserve">
+        <source>
+</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id=" " xml:space="preserve">
+        <source> </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@m" xml:space="preserve">
+        <source>%@m</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Action details" xml:space="preserve">
+        <source>Action details</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Action is not set. To take full advantage of map view please join one of available actions first." xml:space="preserve">
+        <source>Action is not set. To take full advantage of map view please join one of available actions first.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Actions" xml:space="preserve">
+        <source>Actions</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Actions list" xml:space="preserve">
+        <source>Actions list</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Active" xml:space="preserve">
+        <source>Active</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add point" xml:space="preserve">
+        <source>Add point</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure?" xml:space="preserve">
+        <source>Are you sure?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Back to username and pasword? " xml:space="preserve">
+        <source>Back to username and pasword? </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CL A+P" xml:space="preserve">
+        <source>CL A+P</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CL L+P" xml:space="preserve">
+        <source>CL L+P</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Change selection" xml:space="preserve">
+        <source>Change selection</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Change!" xml:space="preserve">
+        <source>Change!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chnage password" xml:space="preserve">
+        <source>Chnage password</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chnage your password" xml:space="preserve">
+        <source>Chnage your password</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chnage your username" xml:space="preserve">
+        <source>Chnage your username</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Click Here" xml:space="preserve">
+        <source>Click Here</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Code" xml:space="preserve">
+        <source>Code</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Current" xml:space="preserve">
+        <source>Current</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DEBUG TOOLS" xml:space="preserve">
+        <source>DEBUG TOOLS</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Data was successfully uploaded!" xml:space="preserve">
+        <source>Data was successfully uploaded!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Description:" xml:space="preserve">
+        <source>Description:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dismiss" xml:space="preserve">
+        <source>Dismiss</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Do not worry, we will try again later automatiacally." xml:space="preserve">
+        <source>Do not worry, we will try again later automatiacally.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Do you want to cancel?" xml:space="preserve">
+        <source>Do you want to cancel?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Empty" xml:space="preserve">
+        <source>Empty</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Exceeded character limit." xml:space="preserve">
+        <source>Exceeded character limit.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="GPS data upload interval:" xml:space="preserve">
+        <source>GPS data upload interval:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Get directions" xml:space="preserve">
+        <source>Get directions</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Go to Settigns" xml:space="preserve">
+        <source>Go to Settigns</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Got it!" xml:space="preserve">
+        <source>Got it!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Got one time passcode? " xml:space="preserve">
+        <source>Got one time passcode? </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hello" xml:space="preserve">
+        <source>Hello</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Home" xml:space="preserve">
+        <source>Home</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hybrid" xml:space="preserve">
+        <source>Hybrid</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you join this action you will start sharing your GPS data." xml:space="preserve">
+        <source>If you join this action you will start sharing your GPS data.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you join this action, you will leave current one. You can participate in one action at the time. Additionally you will start sharing your GPS data." xml:space="preserve">
+        <source>If you join this action, you will leave current one. You can participate in one action at the time. Additionally you will start sharing your GPS data.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you leave action its data saved in device memory will be removed. If you do not have Internet connection at the moment it coud be not possible to regain access to those data untill returning online. Do you still want to leave?" xml:space="preserve">
+        <source>If you leave action its data saved in device memory will be removed. If you do not have Internet connection at the moment it coud be not possible to regain access to those data untill returning online. Do you still want to leave?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Inactive" xml:space="preserve">
+        <source>Inactive</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Is active now:" xml:space="preserve">
+        <source>Is active now:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Join" xml:space="preserve">
+        <source>Join</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last successful upload:" xml:space="preserve">
+        <source>Last successful upload:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Leave current action" xml:space="preserve">
+        <source>Leave current action</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Location is needed" xml:space="preserve">
+        <source>Location is needed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Location: " xml:space="preserve">
+        <source>Location: </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Log In" xml:space="preserve">
+        <source>Log In</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Log In to your account" xml:space="preserve">
+        <source>Log In to your account</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Log Out" xml:space="preserve">
+        <source>Log Out</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Login failed!" xml:space="preserve">
+        <source>Login failed!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Map" xml:space="preserve">
+        <source>Map</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Media content" xml:space="preserve">
+        <source>Media content</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Media content:" xml:space="preserve">
+        <source>Media content:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name:" xml:space="preserve">
+        <source>Name:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Navigate to action using maps" xml:space="preserve">
+        <source>Navigate to action using maps</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Network failed" xml:space="preserve">
+        <source>Network failed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New password" xml:space="preserve">
+        <source>New password</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New username" xml:space="preserve">
+        <source>New username</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No name provided" xml:space="preserve">
+        <source>No name provided</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Passwod field empty!" xml:space="preserve">
+        <source>Passwod field empty!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password updated!" xml:space="preserve">
+        <source>Password updated!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pasword" xml:space="preserve">
+        <source>Pasword</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Phone number:" xml:space="preserve">
+        <source>Phone number:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pick layers" xml:space="preserve">
+        <source>Pick layers</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please check entered addres/ip address or port number and try again." xml:space="preserve">
+        <source>Please check entered addres/ip address or port number and try again.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please check entered credentials." xml:space="preserve">
+        <source>Please check entered credentials.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please confirm" xml:space="preserve">
+        <source>Please confirm</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter new password if you want to change current one." xml:space="preserve">
+        <source>Please enter new password if you want to change current one.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter new username if you want to change current one." xml:space="preserve">
+        <source>Please enter new username if you want to change current one.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please go to Profile tab and set your password by clicking Change password. Otherwise you may be not able to log in again." xml:space="preserve">
+        <source>Please go to Profile tab and set your password by clicking Change password. Otherwise you may be not able to log in again.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please try again" xml:space="preserve">
+        <source>Please try again</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please try again later." xml:space="preserve">
+        <source>Please try again later.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Port: 80" xml:space="preserve">
+        <source>Port: 80</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Profile" xml:space="preserve">
+        <source>Profile</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove selection" xml:space="preserve">
+        <source>Remove selection</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Request failed!" xml:space="preserve">
+        <source>Request failed!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Satellite" xml:space="preserve">
+        <source>Satellite</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Server address validation failed!" xml:space="preserve">
+        <source>Server address validation failed!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Session expired!" xml:space="preserve">
+        <source>Session expired!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Set your password!" xml:space="preserve">
+        <source>Set your password!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Something went wrong" xml:space="preserve">
+        <source>Something went wrong</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Something went wrong!" xml:space="preserve">
+        <source>Something went wrong!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sorry, something went wrong... Try again later" xml:space="preserve">
+        <source>Sorry, something went wrong... Try again later</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Standard" xml:space="preserve">
+        <source>Standard</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Start time:" xml:space="preserve">
+        <source>Start time:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Starting: %@" xml:space="preserve">
+        <source>Starting: %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Success" xml:space="preserve">
+        <source>Success</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tap to select a picture" xml:space="preserve">
+        <source>Tap to select a picture</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Time: " xml:space="preserve">
+        <source>Time: </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To collect data please join action first." xml:space="preserve">
+        <source>To collect data please join action first.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To provide full functionality this aplication needs to access your location even in backgroud. Please go to Setting and allow Location **Always**." xml:space="preserve">
+        <source>To provide full functionality this aplication needs to access your location even in backgroud. Please go to Setting and allow Location **Always**.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use SSL" xml:space="preserve">
+        <source>Use SSL</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="User: " xml:space="preserve">
+        <source>User: </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Username" xml:space="preserve">
+        <source>Username</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Username field empty!" xml:space="preserve">
+        <source>Username field empty!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Username is already taken!" xml:space="preserve">
+        <source>Username is already taken!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Username updated!" xml:space="preserve">
+        <source>Username updated!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Username:" xml:space="preserve">
+        <source>Username:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome" xml:space="preserve">
+        <source>Welcome</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Width of observation:" xml:space="preserve">
+        <source>Width of observation:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yes" xml:space="preserve">
+        <source>Yes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yes." xml:space="preserve">
+        <source>Yes.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You can attach an image to this point below." xml:space="preserve">
+        <source>You can attach an image to this point below.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You can go back to using the app." xml:space="preserve">
+        <source>You can go back to using the app.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You have been logout. Should it be a bug, please contact administration." xml:space="preserve">
+        <source>You have been logout. Should it be a bug, please contact administration.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="action cn" xml:space="preserve">
+        <source>action cn</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="area cn" xml:space="preserve">
+        <source>area cn</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="cache cn" xml:space="preserve">
+        <source>cache cn</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="coord cn" xml:space="preserve">
+        <source>coord cn</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="description" xml:space="preserve">
+        <source>description</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="location cn" xml:space="preserve">
+        <source>location cn</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="name" xml:space="preserve">
+        <source>name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="none" xml:space="preserve">
+        <source>none</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="path cn" xml:space="preserve">
+        <source>path cn</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="points cn" xml:space="preserve">
+        <source>points cn</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="result... %@" xml:space="preserve">
+        <source>result... %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="s" xml:space="preserve">
+        <source>s</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="use **ONLY IF** you know how 😇" xml:space="preserve">
+        <source>use **ONLY IF** you know how 😇</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="user cn" xml:space="preserve">
+        <source>user cn</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

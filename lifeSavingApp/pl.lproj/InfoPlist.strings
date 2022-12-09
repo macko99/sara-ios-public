@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  lifeSavingApp
+
+  Created by maciej on 18/11/2021.
+  
+*/
+
+
+NSLocationWhenInUseUsageDescription = "Potrzebujemy Twojej lokalizacji do prawidłowego wspierania akcji poszukiwawczych.";
+
+NSLocationAlwaysUsageDescription = "Potrzebujemy Twojej lokalizacji do prawidłowego wspierania akcji poszukiwawczych.";
+
+NSLocationAlwaysAndWhenInUseUsageDescription = "Potrzebujemy Twojej lokalizacji do prawidłowego wspierania akcji poszukiwawczych.";

@@ -1,0 +1,226 @@
+/*
+  Localizable.strings
+  lifeSavingApp
+
+  Created by Maciej Kozub on 26/10/2021.
+  
+*/
+
+//Enums
+"Loding..." = "Loading...";
+"Loaded" = "Loaded";
+"Faild" = "Failed";
+"Idle" = "Idle";
+"No media content" = "No media content";
+"Not loaded yet" = "Not loaded yet";
+"Loaded from server" = "Loaded from server";
+"Image saved locally" = "Image saved locally";
+
+//LoginView
+"Session expired!" = "Session expired!";
+"You have been logout. Should it be a bug, please contact administration." = "You have been logout. Should it be a bug, please contact administration.";
+"Log In to your account" = "Log In to your account";
+"Use SSL" = "Use SSL";
+"Port: 80" = "Port: 80";
+"Username" = "Username";
+"Pasword" = "Pasword";
+"Code" = "Code";
+"Log In" = "Log In";
+"Login failed!" = "Login failed!";
+"Please check entered credentials." = "Please check entered credentials.";
+"Got it!" = "Got it!";
+"Server address validation failed!" = "Server address validation failed!";
+"Please check entered addres/ip address or port number and try again." = "Please check entered address/ip address or port number and try again.";
+"Got one time passcode? " = "Got one time passcode? ";
+"Back to username and pasword? " = "Back to username and password? ";
+"Click Here" = "Click Here";
+
+//MainTabView
+"Home" = "Home";
+"Map" = "Map";
+"Actions" = "Actions";
+"Profile" = "Profile";
+"Set your password!" = "Set your password!";
+"Please go to Profile tab and set your password by clicking Change password. Otherwise you may be not able to log in again." = "Please go to Profile tab and set your password by clicking Change password. Otherwise you may be not able to log in again.";
+"Chat (beta)" = "Chat (beta)";
+
+//HomeView
+"Welcome" = "Welcome";
+"Location is needed" = "Location is needed";
+"Go to Settigns" = "Go to Settings";
+"Dismiss" = "Dismiss";
+"Quick guide:" = "Quick guide:";
+
+"AllowAlwaysLocation-ios14" = "To provide full functionality this aplication needs to access your location even in backgroud. Please go to Setting and allow Location Always.";
+"WelcomeMessage-ios14" = "Welcome, this application was created to support Search and Rescue activities.";
+"ModuleOverView-ios14" = "App consists of 3 main views: Map, Actions and Profile, you can use bar on the bottom of the screen to navigate between them.";
+"ProfileOverView-ios14" = "On Profile tab you can review details of your account and change some of them if desired. In addiction you will find details regarding pushing your GPS data to server there, some of them are adjustable (more about it below).";
+"ActionsOverView-ios14" = "Actions tab provides you with updated list of actions, that you have been added to. Each action is presented with overview data such as: action name, description, start time and information about actual action status. After navigating into action details, you are given possibility to join action or leave the current one.";
+"DataOverView-ios14" = "You will start sharing your device's location data (GPS) when you choose to join one of available actions. Data will be pushed according to time interval set by action organiser (you can see current value on Profile tab). Shared data include width of observation too, it means the area you can effectively search while participating in action. This value can be found and modified in Profile view. There you can also choose to disable location data sharing while still taking part in action.";
+"MapOverView-ios14" = "When you choose to join one of the actions Map tab provides you with all the most crucial data regarding course of action. Using the 3 buttons on the right side of the screen you can: localize yourself on the map, set map to show the whole action region or add new special point to current action. Points are the characteristic places that have drawn your attention. You may share them with other participants. While creating new point you can give it a name, longer description and attach an image from your device gallery. Map view is also equipped with bottom slide over card where it is easy to change displayed map style and choose whether to display map annotations. There are 4 kinds of annotations: areas assigned to you, other areas in action scope, path you have followed (available when sharing GPS data is enabled) and special points added by all participants.";
+"DataOverViewDetails-ios14" = "Application has been prepared to work in environment with bad network availability, therefore even when you are offline your GPS data and created points would not disappear. All of the collected and created data will be automatically uploaded when internet service is available again.";
+"PushOverView-ios14" = "App is also capable of receiving push notifications, even when it was not opened, so please bear in mind to allow getting notifications. You will be notified about creation of a new action with your participation, changing status of one your actions, assigning a new area to you or about new special point added to current action.";
+"OtherOverView-ios14" = "Light and dark mode are supported. Additionally, please make sure to set access to your phone's location service to Always, it is mandatory for this application to work properly.";
+
+"AllowAlwaysLocation" = "To provide full functionality this aplication needs to access your location even in backgroud. Please go to Setting and allow Location **Always**.";
+"WelcomeMessage" = "Welcome, this application was created to support ***Search and rescue*** activities.";
+"ModuleOverView" = "App consists of 3 main views: ***Map***, ***Actions*** and ***Profile***, you can use bar on the bottom of the screen to navigate between them.";
+"ProfileOverView" = "On ***Profile*** tab you can review details of your account and change some of them if desired. In addiction you will find details regarding pushing your ***GPS*** data to server there, some of them are adjustable (more about it below).";
+"ActionsOverView" = "***Actions*** tab provides you with updated list of actions, that you have been added to. Each action is presented with overview data such as: action name, description, start time and information about actual action status. After navigating into action details, you are given possibility to join action or leave the current one.";
+"DataOverView" = "You will start sharing your device's location data (**GPS**) when you choose to join one of available actions. Data will be pushed according to time interval set by action organiser (you can see current value on **Profile** tab). Shared data include **width of observation** too, it means the area you can effectively search while participating in action. This value can be found and modified in **Profile** view, also there you can choose to disable location data sharing while still taking part in action.";
+"MapOverView" = "When you choose to join one of the actions ***Map*** tab provides you with all the most crucial data regarding course of action. Using the 3 buttons on the right side of the screen you can localize yourself on the map, set map to show the whole action region and add new **special point** to current action. **Points** are the characteristic places that have drawn your attention and you want to share this with other participants. While creating new point you can give it a name, longer description and **attach an image** from your device gallery. Map view is also equipped with bottom slide over card where it is easy to change displayed map style and choose whether to display map annotations. There are **4 kinds of annotations**: areas assigned to you, other areas in action scope, path you have followed (available when sharing GPS data is enabled) and special points added by all participants.";
+"DataOverViewDetails" = "Application has been prepared to work in environment with bad network availability, therefore even when you are offline your GPS data and created points would not disappear. All of the collected and created data will be automatically uploaded when internet service is available again.";
+"PushOverView" = "App is also capable of receiving **push notifications**, even when it was not opened, so please bear in mind to allow getting notifications. You will be notified about creation of a new action with your participation, changing status of one your actions, assigning a new area to you or about new special point added to current action.";
+"OtherOverView" = "Light and dark mode are supported. Additionally, please make sure to set access to your phone's location service to **Always**, it is mandatory for this application to work properly.";
+
+//MapView
+"Action is not set. To take full advantage of map view please join one of available actions first." = "Action is not set. To take full advantage of map view please join one of available actions first.";
+"Standard" = "Standard";
+"Satellite" = "Satellite";
+"Hybrid" = "Hybrid";
+"Show my areas" = "Show my areas";
+"Show other areas" = "Show other areas";
+"Show my routes" = "Show my routes";
+"Show special points" = "Show special points";
+"Pick layers" = "Pick layers";
+"Path start: " = "Path start: ";
+"Area" = "Area";
+"Show areas names" = "Show areas names";
+//"area: " = "area: ";
+//"my" = "my";
+
+//ActionListView
+"Current" = "Current";
+"Active" = "Active";
+"Inactive" = "Inactive";
+"Starting: \(action.start_time.toDateStringShort)" = "Starting: \(action.start_time.toDateStringShort)";
+"Actions list" = "Actions list";
+"Are you sure?" = "Are you sure?";
+"If you join this action, you will leave current one. You can participate in one action at the time. Additionally you will start sharing your GPS data." = "If you join this action, you will leave current one. You can participate in one action at the time. Additionally you will start sharing your GPS data.";
+"yes, join action, id: \(String(selectedAction.id))" = "yes, join action, id: \(String(selectedAction.id))";
+"If you leave action its data saved in device memory will be removed. If you do not have Internet connection at the moment it coud be not possible to regain access to those data untill returning online. Do you still want to leave?" = "If you leave action its data saved in device memory will be removed. If you do not have Internet connection at the moment it could be not possible to regain access to those data until returning online. Do you still want to leave?";
+"If you join this action you will start sharing your GPS data." = "If you join this action you will start sharing your GPS data.";
+"OK" = "OK";
+
+//ProfileView
+"Hello" = "Hello";
+"please refresh" = "please refresh";
+"Username:" = "Username:";
+"Phone number:" = "Phone number:";
+"Collecting location data" = "Collecting location data";
+"To collect data please join action first." = "To collect data please join action first.";
+"GPS data upload interval:" = "GPS data upload interval:";
+"s" = "s";
+"Last successful upload:" = "Last successful upload:";
+"none" = "none";
+"Width of observation:" = "Width of observation:";
+"Width of observation" = "Width of observation";
+"\($0)m" = "\($0)m";
+"Chnage password" = "Change password";
+"Log Out" = "Log Out";
+"Chnage first or last name" = "Change first or last name";
+
+//ActionDetailsView
+"Action details" = "Action details";
+"Start time:" = "Start time:";
+"Is active now:" = "Is active now:";
+"Yes" = "Yes";
+"No" = "No";
+"Action: " = "Action: ";
+"Navigate to action using maps" = "Navigate to action using maps";
+"Leave current action" = "Leave current action";
+"Join" = "Join";
+
+//CustomPointDetailsView
+"No name provided" = "No name provided";
+"Empty" = "Empty";
+"Point " = "Point ";
+"Get directions" = "Get directions";
+"User: " = "User: ";
+"Unknown" = "Unknown";
+"Media content" = "Media content";
+"Please try again" = "Please try again";
+"Point details" = "Point details";
+"Close" = "Close";
+
+//CreateCustomPointView
+"Time: " = "Time: ";
+"Location: " = "Location: ";
+"Name:" = "Name:";
+"Description:" = "Description:";
+"Media content:" = "Media content:";
+"You can attach an image to this point below." = "You can attach an image to this point below.";
+"Change selection" = "Change selection";
+"Remove selection" = "Remove selection";
+"Tap to select a picture" = "Tap to select a picture";
+"Add point" = "Add point";
+"Create new point" = "Create new point";
+"Cancel" = "Cancel";
+"Please confirm" = "Please confirm";
+"Do you want to cancel?" = "Do you want to cancel?";
+"Success" = "Success";
+"Data was successfully uploaded!" = "Data was successfully uploaded!";
+"Network failed" = "Network failed";
+"Do not worry, we will try again later automatiacally." = "Do not worry, we will try again later automatically.";
+"Something went wrong" = "Something went wrong";
+"Sorry, something went wrong... Try again later" = "Sorry, something went wrong... Try again later";
+
+//ChangeUserNameView
+"Chnage your username" = "Change your username";
+"New username" = "New username";
+"Request failed!" = "Request failed!";
+"Username is already taken!" = "Username is already taken!";
+"Username field empty!" = "Username field empty!";
+"Please enter new username if you want to change current one." = "Please enter new username if you want to change current one.";
+"Something went wrong!" = "Something went wrong!";
+"Please try again later." = "Please try again later.";
+"Username updated!" = "Username updated!";
+
+//ChangePasswordView
+"Chnage your password" = "Change your password";
+"New password" = "New password";
+"Exceeded character limit." = "Exceeded character limit.";
+"Change!" = "Change!";
+"Passwod field empty!" = "Password field empty!";
+"Please enter new password if you want to change current one." = "Please enter new password if you want to change current one.";
+"Password updated!" = "Password updated!";
+"You can go back to using the app." = "You can go back to using the app.";
+
+
+//ChatTabView
+"Try joining chat room" = "Try joining chat room";
+
+//"WelcomeChat" = "Welcome to Chat ***beta***. Chat is only available to selcted users on selected actions. Please join action to use it. Chat is only available online, no messages are being kept offline on device. You can see up to 100 recent messages. It is not direct, it works as a chat room for everyone on selected action.";
+"WelcomeChat" = "Welcome to Chat ***beta***!";
+"WelcomeChatMainTab" = "Chat ***beta*** is available! Chat is only available to selcted users on selected actions. Please join action to use it. Chat is only available online, no messages are being kept offline on device. You can see up to 100 recent messages. It is not direct, it works as a chat room for everyone on selected action.";
+
+//"WelcomeChat-ios14" = "Welcome to Chat beta. Chat is only available to selcted users on selected actions. Please join action to use it. Chat is only available online, no messages are being kept offline on device. You can see up to 100 recent messages. It is not direct, it works as a chat room for everyone on selected action.";
+"WelcomeChat-ios14" = "Welcome to Chat beta!";
+"WelcomeChatMainTab-ios14" = "Chat beta is available! Chat is only available to selcted users on selected actions. Please join action to use it. Chat is only available online, no messages are being kept offline on device. You can see up to 100 recent messages. It is not direct, it works as a chat room for everyone on selected action.";
+
+"Stataus: " = "Status: ";
+"Join action first." = "Join action first.";
+
+//ChatView
+"New message" = "New message";
+"Quit" = "Quit";
+"Chat" = "Chat";
+"beta" = "beta";
+
+//ChatController
+"shutdown" = "shutdown";
+
+//ChatUtils
+"notActive" = "Not active";
+"authorized" = "Authorized";
+"failed" = "Failed.";
+"loading" = "Loading";
+"notAvailable" = "Not available";
+
+//ChangeNamesView
+"Chnage your information" = "Change your information";
+"First name" = "First name";
+"Last name" = "Last name";
+"No change has been done to current values." = "No change has been done to current values.";
+"If you wish please enter new values." = "If you wish please enter new values.";
+"Values updated!" = "Values updated!";

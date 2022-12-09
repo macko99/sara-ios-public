@@ -1,0 +1,224 @@
+/*
+  Localizable.strings
+  lifeSavingApp
+
+  Created by Maciej Kozub on 26/10/2021.
+  
+*/
+
+//Enums
+"Loding..." = "Pracuję...";
+"Loaded" = "Gotowe";
+"Faild" = "Niepowodzenie";
+"Idle" = "Bezczynny";
+"No media content" = "Brak zawartości";
+"Not loaded yet" = "Nie pobrany";
+"Loaded from server" = "Pobrany z serwera";
+"Image saved locally" = "Obraz zapisany w urządzeniu";
+
+//LoginView
+"Session expired!" = "Sejsa wygasła!";
+"You have been logout. Should it be a bug, please contact administration." = "Zostałeś wylogowany. Jeżeli błędznie to zgłoś to do administratora.";
+"Log In to your account" = "Logowanie";
+"Use SSL" = "Używaj SSL";
+"Port: 80" = "Port: 80";
+"Username" = "Nazwa użytkownika";
+"Pasword" = "Hasło";
+"Code" = "Kod";
+"Log In" = "Zaloguj się";
+"Login failed!" = "Logowanie nie powiodło się";
+"Please check entered credentials." = "Sprawdź podane dane";
+"Got it!" = "Rozumiem!";
+"Server address validation failed!" = "Podany błędny adres serwera!";
+"Please check entered addres/ip address or port number and try again." = "Prosze sprawdzić wpisany adres URL lub IP oraz numer portu i spróbować ponownie.";
+"Got one time passcode? " = "Masz jednorazowy kod? ";
+"Back to username and pasword? " = "Znasz nazwę użytkownika i hasło? ";
+"Click Here" = "Kliknij tutaj";
+
+//MainTabView
+"Home" = "Witaj";
+"Map" = "Mapa";
+"Actions" = "Akcje";
+"Profile" = "Profil";
+"Set your password!" = "Ważne, ustaw swoje hasło!";
+"Please go to Profile tab and set your password by clicking Change password. Otherwise you may be not able to log in again." = "Przejdź to zakładki Profil i ustaw hasło dla swojego konta klikając Zmień hasło. Inaczej możesz nie móc się ponownie zalogować.";
+"Chat (beta)" = "Czat (beta)";
+
+//HomeView
+"Welcome" = "Witaj";
+"Location is needed" = "Lokalizacja jest wymagana";
+"Go to Settigns" = "Przejdź do ustawień";
+"Dismiss" = "Odrzuć";
+"Quick guide:" = "Instrukcja:";
+
+"AllowAlwaysLocation" = "Aby aplikacja mogła działać poprawnie, niezbędne jest korzystanie z lokalizacji w tle. Przejdź do ustawień telefonu i pozwól na udostępnianie lokalizacji **Zawsze**";
+"WelcomeMessage" = "Witaj w aplikacji wspomagającej działania ***Search and Rescue.***";
+"ModuleOverView" = "Aplikacja posiada 3 główne widoki: ***Mapa***, ***Akcje*** oraz ***Profil***. Możesz się pomiędzy nimi przemieszczać używając paska na dole ekranu.";
+"ProfileOverView" = "W zakładce ***Profil*** zobaczysz szczegóły swojego konta i w razie potrzeby zmienisz dane swojego użytkownika. Znajdziesz tu również szczegóły wysyłania danych na serwer - niektóre z nich będziesz mógł zmienić (zostały one omówione poniżej).";
+"ActionsOverView" = "W zakładce ***Akcje*** znajdziesz listę Akcji, do których zostałeś dodany. Widok ten prezentuje podstawowe dane, takie jak: nazwa, opis, data rozpoczęcia oraz informację czy określona Akcja jest obecnie aktywna. Klikając w wybraną Akcję poznasz jej szczegóły oraz będziesz mógł do niej dołączyć lub ją opuścić.";
+"DataOverView" = "Dołączając do Akcji rozpoczynasz wysyłanie danych lokalizacyjnych z urządzenia (***GPS***) na serwer. Dzieje się to z interwałem ustawionym indywidualnie przez administratora Akcji (wartość widoczna w zakładce ***Profil***). Wysyłane dane uwzględniają również szerokość obserwacji (obszar efektywnie przeszukiwany). W zakładce ***Profil*** możesz ją samodzielnie edytować, a także wyłączyć opcję wysyłania danych ***GPS***, bez rezygnacji z uczestnictwa w Akcji.";
+"MapOverView" = "Po dołączeniu do wybranej Akcji, w zakładce ***Mapy*** znajdziesz najbardziej istotne informacje. Korzystając z 3 przycisków z prawej strony ekranu możesz zlokalizować się na mapie, wycentrować widok na ustalony obszar aktualnej Akcji oraz ***dodać punkt do mapy***. Punkty to specjalne miejsca, które mają zwrócić uwagę wszystkich uczestników Akcji. Do każdego punktu, oprócz informacji tekstowej, ***można dołączyć zdjęcie*** wybrane z galerii. Widok mapy posiada kartę wysuwaną z dolnej części ekranu, na której możesz wybrać typ wyświetlanej mapy oraz dodatkowe oznaczenia. ***Są 4 rodzaje oznaczeń:*** obszary przydzielone Ci przez organizatora Akcji, obszary innych uczestników, ścieżka którą pokonałeś (dostępna przy włączonym wysyłaniu danych GPS) oraz wspomniane wcześniej punkty specjalne dodawane przez uczestników Akcji.";
+"DataOverViewDetails" = "Aplikacja została przystosowana do pracy w środowisku bez stabilnego połączenia z internetem, dlatego nawet gdy jesteś poza siecią Twoje dane z GPS oraz punkty, które dodasz do mapy nie przepadną. Zostaną one automatycznie wysłane, kiedy tylko połączenie z serwerem będzie możliwe.";
+"PushOverView" = "Aplikacja wspiera także ***powiadomienia push***, nawet gdy jest wyłączona, więc nie musisz się martwić, że coś przeoczysz. Zostaniesz poinformowany o pojawieniu się nowej Akcji z Twoim udziałem, aktywowaniu jednej z nich, dodaniu obszaru przeznaczonego dla Ciebie lub o nowym punkcie specjalnym w ramach Akcji, w której uczestniczysz.";
+"OtherOverView" = "Wspierany jest zarówno ciemny jak i jasny wygląd interfejsu. Ważne jest, abyś zezwolił aplikacji na korzystanie z lokalizacji ***Zawsze*** oraz zgodził się na wysyłanie powiadomień.";
+
+"AllowAlwaysLocation-ios14" = "Aby aplikacja mogła działać poprawnie, niezbędne jest korzystanie z lokalizacji w tle. Przejdź do ustawień telefonu i pozwól na udostępnianie lokalizacji Zawsze";
+"WelcomeMessage-ios14" = "Witaj w aplikacji wspomagającej działania Search and Rescue.";
+"ModuleOverView-ios14" = "Aplikacja posiada 3 główne widoki: Mapa, Akcje oraz Profil. Możesz się pomiędzy nimi przemieszczać używając paska na dole ekranu.";
+"ProfileOverView-ios14" = "W zakładce Profil zobaczysz szczegóły swojego konta i w razie potrzeby zmienisz dane swojego użytkownika. Znajdziesz tu również szczegóły wysyłania danych na serwer - niektóre z nich będziesz mógł zmienić (zostały one omówione poniżej).";
+"ActionsOverView-ios14" = "W zakładce Akcje znajdziesz listę akcji, do których zostałeś dodany. Widok ten prezentuje podstawowe dane, takie jak: nazwa, opis, data rozpoczęcia oraz informację czy określona Akcja jest obecnie aktywna. Klikając w wybraną Akcję poznasz jej szczegóły oraz będziesz mógł do niej dołączyć lub ją opuścić.";
+"DataOverView-ios14" = "Dołączając do Akcji rozpoczynasz wysyłanie danych lokalizacyjnych z urządzenia (GPS) na serwer. Dzieje się to z interwałem ustawionym indywidualnie przez administratora Akcji (wartość widoczna w zakładce Profil). Wysyłane dane uwzględniają również szerokość obserwacji (obszar efektywnie przeszukiwany). W zakładce Profil możesz ją samodzielnie edytować, a także wyłączyć opcję wysyłania danych GPS, bez rezygnacji z uczestnictwa w Akcji.";
+"MapOverView-ios14" = "Po dołączeniu do wybranej Akcji, w zakładce Mapy znajdziesz najbardziej istotne informacje. Korzystając z 3 przycisków z prawej strony ekranu można zlokalizować się na mapie, wycentrować widok na ustalony obszar aktualnej Akcji oraz dodać punkt do mapy. Punkty to specjalne miejsca, które mają zwrócić uwagę wszystkich uczestników Akcji. Do każdego punktu, oprócz informacji tekstowej, można dołączyć zdjęcie wybrane z galerii. Widok mapy posiada kartę wysuwaną z dolnej części ekranu, na której możesz wybrać typ wyświetlanej mapy oraz dodatkowe oznaczenia. Są 4 rodzaje oznaczeń: obszary przydzielone Ci przez organizatora Akcji, obszary innych uczestników, ścieżka którą pokonałeś (dostępna przy włączonym wysyłaniu danych GPS) oraz wspomniane wcześniej punkty specjalne dodawane przez uczestników akcji.";
+"DataOverViewDetails-ios14" = "Aplikacja została przystosowana do pracy w środowisku bez stabilnego połączenia z internetem, dlatego nawet gdy jesteś poza siecią twoje dane z GPS oraz punkty, które dodasz do mapy nie przepadną. Zostaną one automatycznie wysłane, kiedy tylko połączenie z serwerem będzie możliwe.";
+"PushOverView-ios14" = "Aplikacja wspiera także powiadomienia push, nawet gdy jest wyłączona więc nie musisz się martwić, że coś przeoczysz. Zostaniesz poinformowany o pojawieniu się nowej akcji z Twoim udziałem, aktywowaniu jednej z nich, dodaniu obszaru przeznaczonego dla Ciebie lub o nowym punkcie specjalnym w ramach Akcji, w której uczestniczysz.";
+"OtherOverView-ios14" = "Wspierany jest zarówno ciemny jak i jasny wygląd interfejsu. Ważne jest, abyś zezwolił aplikacji na korzystanie z lokalizacji Zawsze oraz zgodził się na wysyłanie powiadomień.";
+
+//MapView
+"Action is not set. To take full advantage of map view please join one of available actions first." = "Aby korzystać z funckji mapy musisz najpierw dołączyć do jednej z dostepnych akcji.";
+"Standard" = "Standardowa";
+"Satellite" = "Satelitarna";
+"Hybrid" = "Hybrydowa";
+"Show my areas" = "Pokaż moje obszary";
+"Show other areas" = "Pokaż obszary innych";
+"Show my routes" = "Pokaż przebyte ścieżki";
+"Show special points" = "Pokaż punkty specjalne";
+"Pick layers" = "Wybierz warstwy";
+"Path start: " = "Początek: ";
+"Area" = "Obszar";
+"Show areas names" = "Pokaż nazwy obszarów";
+//"area: " = "obszar: ";
+//"my" = "mój";
+
+//ActionListView
+"Current" = "Aktualna";
+"Active" = "Aktywna";
+"Inactive" = "Nieaktywna";
+"Starting: %@" = "Rozpoczęcie: %@";
+"Actions list" = "Lista akcji";
+"Are you sure?" = "Jesteś pewien?";
+"If you join this action, you will leave current one. You can participate in one action at the time. Additionally you will start sharing your GPS data." = "Jeżeli dołączysz do tej akcji, przestaniesz brać udział w dotychczasowej! Możesz brać udział tylko w jednej akcji równocześnie. Twoje dane GPS zaczną być udostępniane.";
+"If you leave action its data saved in device memory will be removed. If you do not have Internet connection at the moment it coud be not possible to regain access to those data untill returning online. Do you still want to leave?" = "Jeżeli opuścisz teraz akcję jej dane zostaną usunięte z tego telefonu. Jeżeli nie masz połączenia z internetem, chwilowo może nie być możliwe ponownego uzyskanie tych danych.";
+"If you join this action you will start sharing your GPS data." = "Jeżeli dołączysz do akcji twoje dane GPS zaczną być udostępniane.";
+"OK" = "OK";
+
+//ProfileView
+"Hello" = "Cześć";
+"please refresh" = "Proszę odświeżyć";
+"Username:" = "Nazwa użytkownika:";
+"Phone number:" = "Numer telefonu:";
+"Collecting location data" = "Udostępnianie danych GPS";
+"To collect data please join action first." = "Dołącz do akcji aby udostępniać dane.";
+"GPS data upload interval:" = "Interwał wysyłania danych GPS:";
+"s" = "s";
+"Last successful upload:" = "Ostatnie powodzenie udostępniania:";
+"none" = "brak";
+"Width of observation:" = "Szerokość obserwacji:";
+"Width of observation" = "Szerokość obserwacji";
+"%lfm" = "%lfme";
+"Chnage password" = "Zmień hasło";
+"Log Out" = "Wyloguj się";
+"Chnage first or last name" = "Zmień imię lub nazwisko";
+
+//ActionDetailsView
+"Action details" = "Szczegoły akcji";
+"Start time:" = "Czas rozpoczęcia:";
+"Is active now:" = "Jest już aktywna:";
+"Yes" = "Tak";
+"No" = "Nie";
+"Action: " = "Akcja: ";
+"Navigate to action using maps" = "Nawiguj do akcji używając map";
+"Leave current action" = "Opuść akcję";
+"Join" = "Dołącz!";
+
+//CustomPointDetailsView
+"No name provided" = "Brak nazwy";
+"Empty" = "Pusty";
+"Point " = "Punkt ";
+"Get directions" = "Nawiguj";
+"User: " = "Użytkownik: ";
+"Unknown" = "Nieznany";
+"Media content" = "Załącznik";
+"Please try again" = "Proszę spróbować ponownie";
+"Point details" = "Szczegóły punktu";
+"Close" = "Zamknij";
+
+//CreateCustomPointView
+"Time: " = "Czas: ";
+"Location: " = "Miejsce: ";
+"Name:" = "Nazwa:";
+"Description:" = "Opis:";
+"Media content:" = "Załącznik:";
+"You can attach an image to this point below." = "Dołącz zdjęcie poniżej.";
+"Change selection" = "Zmień wybów";
+"Remove selection" = "Usuń wybór";
+"Tap to select a picture" = "Kliknij aby wybrać zdjęcie";
+"Add point" = "Dodaj!";
+"Create new point" = "Utwórz nowy punkt";
+"Cancel" = "Anuluj";
+"Please confirm" = "Potwierdź";
+"Do you want to cancel?" = "Chcesz anulować?";
+"Success" = "Udało się!";
+"Data was successfully uploaded!" = "Dane wysłane z powodzeniem.";
+"Network failed" = "Błąd połączenia";
+"Do not worry, we will try again later automatiacally." = "Nie martw się, spróbujemy automatycznie wysłać dane ponownie.";
+"Something went wrong" = "Coś poszło nie tak...";
+"Sorry, something went wrong... Try again later" = "Przepraszamy, coś poszło nie tak... Spróbuj później";
+
+//ChangeUserNameView
+"Chnage your username" = "Zmień swoją nazwę użytkownika";
+"New username" = "Nowa nazwa";
+"Request failed!" = "Niepowodzenie";
+"Username is already taken!" = "Użytkownik o takiej nazwie już istnieje!";
+"Username field empty!" = "Nazwa użytkownika nie może być pusta.";
+"Please enter new username if you want to change current one." = "Podaj nową nazwę użytkonika.";
+"Something went wrong" = "Coś poszło nie tak...";
+"Please try again later." = "Spróbuj ponownie później.";
+"Username updated!" = "Nazwa użytkownika zmieniona!";
+
+//ChangePasswordView
+"Chnage your password" = "Zmień swoje hasło";
+"New password" = "Nowe hasło";
+"Exceeded character limit." = "Przekroczono limit znaków.";
+"Change!" = "Zmień!";
+"Passwod field empty!" = "Nowe hasło nie może być puste.";
+"Please enter new password if you want to change current one." = "Podaj nowe hasło.";
+"Password updated!" = "Hasło zaktualizowane!";
+"You can go back to using the app." = "Możesz wrócić do aplikacji.";
+
+//ChatTabView
+"Try joining chat room" = "Spróbuj dołączyć do czatu";
+
+//"WelcomeChat" = "Witaj na Czacie ***beta***! Czat jest dostępny tylko dla wybranych użytkowników, podczas wybranych akcji. Aby z niego korzystać dołącz do jednej z nich. Co ważne, czat jest dostępny tylko online w formie czat-pokoju dla wybranej akcji i żadne dane nie są przechowywane w urządzeniu poza siecią. Na czacie możesz wyświetlić do 100 ostatnich wiadomości.";
+"WelcomeChat" = "Witaj na Czacie ***beta***!";
+"WelcomeChatMainTab" = "Czat ***beta*** już dostępny! Czat jest dostępny tylko dla wybranych użytkowników, podczas wybranych akcji. Aby z niego korzystać dołącz do jednej z nich. Co ważne czat jest dostępny tylko online w formie czat-pokoju dla wybranej akcji i żadne dane nie są przechowywane w urządzeniu poza siecią. Na Czacie możesz wyświetlić do 100 ostatnich wiadomości.";
+
+//"WelcomeChat-ios14" = "Witaj na Czacie beta! Czat jest dostępny tylko dla wybranych użytkowników, podczas wybranych akcji. Aby z niego korzystać dołącz do jednej z nich. Co ważne, czat jest dostępny tylko online w formie czat-pokoju dla wybranej akcji i żadne dane nie są przechowywane w urządzeniu poza siecią. Na czacie możesz wyświetlić do 100 ostatnich wiadomości.";
+"WelcomeChat-ios14" = "Witaj na Czacie beta!";
+"WelcomeChatMainTab-ios14" = "Czat beta już dostępny! Czat jest dostępny tylko dla wybranych użytkowników, podczas wybranych akcji. Aby z niego korzystać dołącz do jednej z nich. Co ważne czat jest dostępny tylko online w formie czat-pokoju dla wybranej akcji i żadne dane nie są przechowywane w urządzeniu poza siecią. Na Czacie możesz wyświetlić do 100 ostatnich wiadomości.";
+
+"Stataus: " = "Status: ";
+"Join action first." = "Aby rozpocząć dołącz do akcji.";
+
+//ChatView
+"New message" = "Nowa wiadomość";
+"Quit" = "Zakończ";
+"Chat" = "Czat";
+"beta" = "beta";
+
+//ChatController
+"shutdown" = "wyłączono";
+
+//ChatUtils
+"notActive" = "Nie aktywny";
+"authorized" = "Pomyślna autoryzacja";
+"failed" = "Błąd.";
+"loading" = "Ładowanie";
+"notAvailable" = "Czat niedostępny.";
+
+//ChangeNamesView
+"Chnage your information" = "Zmień swoje dane";
+"First name" = "Imię";
+"Last name" = "Nazwisko";
+"No change has been done to current values." = "Nie wprowadzono żadnych zmian.";
+"If you wish please enter new values." = "W razie chęci podaj nowe wartości.";
+"Values updated!" = "Informacje zaktualizowane!";
