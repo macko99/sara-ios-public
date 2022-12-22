@@ -29,6 +29,6 @@ Zadaniem aplikacji jest monitorowanie, koordynowanie i zarządzanie w czasie rze
 1. Install SARA on your iOS device using **TestFlight** invitation or by compliling `lifeSavingApp.xcodeproj` yourself using Xcode (tested using Xcode 13.0) on macOS.
 
 2. Open iOS app and log in using received code via SMS or as test user:
-- **maciek**, password: **maciek**
+- ***, password: ***
 
 4. If needed please provide feedback using **TestFlight** app or report Issue on GitHub
